@@ -1,0 +1,26 @@
+/*HEADER*/
+.atas{margin-left: -8px; margin-top: -8px; }
+.g-a{width: 1366px}
+.navbar{width: 1366px;background-color: rgb(234, 40, 66); margin-top: -5px}
+.navbar ul {list-style-type: none;margin: 0;padding: 0;overflow: hidden;}
+.navbar > ul > li {float: left; font-family: 'Gill Sans MT'}
+.navbar li a {display: inline-block;color: white;text-align: center;padding: 14px 16px;text-decoration: none;}
+.navbar li a:hover{background-color: #1A9DA6;}
+li.dropdown {display: inline-block;}
+.dropdown:hover .menu-dropdown {display: block;}
+.menu-dropdown a:hover {color: #fff !important;}
+.menu-dropdown {position: absolute;display: none;box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);z-index: 1;background-color: #1A9DA6;}
+.menu-dropdown a {color: #3c3c3c !important;}
+.menu-dropdown a:hover {color: #232323 !important;background:  white !important;}
+.dis{pointer-events: none; opacity: 0.2; background-color: #000000}
+/*Tabel*/
+.tabel2, .tabel3,.tabel4 {margin-left: 10px }
+.tabel2{background-color: rgb(9, 26, 70); border-radius: 5px}
+.tabel3{background-color: rgb(69, 97, 124); border-radius: 5px}
+.tabel4{background-color: rgb(23, 23, 75); border-radius: 5px}
+.tabel2 th, .tabel2 tbody,.tabel3 th {background-color: thistle;}
+.tabel3 tbody,.tabel4 th, .tabel4 tbody {background-color: thistle;}
+
+/*Button*/
+.kaki{width: 1366px;background-color: rgb(234, 40, 66);margin-top: 132px; margin-left: -8px; height: 25px; font-family: Impact; font-size: 20px; color: white}
+

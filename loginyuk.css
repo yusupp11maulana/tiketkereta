@@ -1,0 +1,8 @@
+body{background: #206D8E}
+.formku{width: 395px;height: 337px;background: #FFFFFF; margin-top: 11%}
+.g-l{width: 395px;height: 99.18px;}
+.inputan{width: 257px;height: 38px;border-radius: 20px; border-width: 0px; background: #EDEDED;padding-left: 20px;padding-right: 20px}
+.log{width: 208px;height: 54px;margin-top: 22px; background: rgb(234, 40, 66);border-radius: 20px;border-width: 0px;
+    font-family: helvetica; font-size: 16px
+}
+.log:hover{background-color: rgb(255, 0, 170); color: white; cursor: pointer}
